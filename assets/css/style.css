@@ -31,6 +31,10 @@ body {
   border: 1px solid #333;
 }
 
+.white.active {
+  background-color: #ccc;
+}
+
 .black {
   --width: 60px;
   /* height = 4 * width */
@@ -43,4 +47,8 @@ body {
   margin-right: calc(var(--width) / -2);
   /* To make black keys apper on top of white keys */
   z-index: 2;
+}
+
+.black.active {
+  background-color: #333;
 }
