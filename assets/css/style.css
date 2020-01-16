@@ -16,3 +16,23 @@ body {
 .piano {
   display: flex;
 }
+
+/* Keys */
+.white {
+  width: 100px;
+  /* height = 4 * width */
+  height: 400px;
+  background-color: white;
+  border: 1px solid #333;
+}
+
+.black {
+  width: 60px;
+  /* height = 4 * width */
+  height: 240px;
+  background-color: black;
+  /* margin-left = - width/2 */
+  /* To make black keys apper on top of white keys */
+  margin-left: -30px;
+  margin-right: -30px;
+}
