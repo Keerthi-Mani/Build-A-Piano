@@ -24,3 +24,9 @@ This is a great project for anyone that wants to create a fun project while lear
 <img width="703" alt="Screen Shot 2020-01-16 at 4 32 00 PM" src="https://user-images.githubusercontent.com/52920074/72564453-c37c6b80-387d-11ea-9873-161cbcdaa914.png">
 
 [Click here to play the piano](https://keerthi-mani.github.io/Build-A-Piano/)
+
+## Feedback and issues:
+
+I really appreciate your feedback. If you want to see some improvements in the app I'll be really grateful if you can drop me an email to carkeane.getz@gmail.com.
+
+Additionally, if you find any issue when running the app or any other other matter, please feel free to open an issue in this Github repo.
