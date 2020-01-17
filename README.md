@@ -13,6 +13,8 @@ This is a great project for anyone that wants to create a fun project while lear
 
 <br>
 
+[Click here to play the piano](https://keerthi-mani.github.io/Build-A-Piano/)
+
 ## Technologies Used
 
 - Html
@@ -22,8 +24,6 @@ This is a great project for anyone that wants to create a fun project while lear
 ## Screenshot
 
 <img width="703" alt="Screen Shot 2020-01-16 at 4 32 00 PM" src="https://user-images.githubusercontent.com/52920074/72564453-c37c6b80-387d-11ea-9873-161cbcdaa914.png">
-
-[Click here to play the piano](https://keerthi-mani.github.io/Build-A-Piano/)
 
 ## Feedback and issues:
 
